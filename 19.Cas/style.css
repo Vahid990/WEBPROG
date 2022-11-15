@@ -1,0 +1,59 @@
+
+#Info{
+    width:16cm;
+    height: 1cm;
+    padding:2px;
+}
+.Education{
+    width:16cm;
+    height: 1cm;
+    margin-right:3cm
+}
+body{
+    background-color:limegreen;
+}
+.Info{
+    border:1px solid black;
+    background-color: white;
+    align-items: center;
+
+}
+.All{
+    margin-right:12cm;
+    margin-left:12cm;
+    padding-top:2px;
+}
+.checkbox-round {
+    width: 1.3em;
+    height: 1.3em;
+    background-color: white;
+    border-radius: 50%;
+    vertical-align: middle;
+    border: 1px solid #ddd;
+    appearance: none;
+    -webkit-appearance: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.checkbox-round:checked {
+    background-color: rgb(39, 196, 25);
+}
+#Lang{
+    font-size: large;
+}
+button{
+    width:15cm;
+    height: 1cm;
+    background-color: green;
+    font-size: larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+button:hover{
+    cursor:pointer;
+}
+textarea{
+    width:15cm;
+    height:1cm;
+}

@@ -1,0 +1,28 @@
+input{
+    width:1550px;
+    height: 30px;
+}
+button{
+    height:40px;
+    width:1550px;
+    background-color: greenyellow;
+    margin: 2px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: green;
+    text-shadow: 10cm;
+    color:rgb(253, 0, 106);
+    height:60px;
+    margin:5px;
+    transition: 0.9s;
+    font-family:courier;
+    font-size:x-large
+}
+select{
+    width:1550px;
+    height:40px;
+}
+body{
+    background-color: lightgrey;
+}

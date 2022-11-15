@@ -1,0 +1,44 @@
+.flex-container{
+    display:flex;
+    justify-content:space-evenly;
+    text-decoration:dashed;
+    color:peru
+}
+.div-1
+{
+    width:200px;
+    height:200px;
+    background-color: rgb(255, 0, 119);
+    border: 3px solid black;
+    font-size:large;
+    font-style: italic;
+    color:gold;
+    text-align:center;
+}
+.div-2
+{
+    width:200px;
+    height:200px;
+    background-color: rgb(255, 0, 0);
+    border: 3px solid black;
+    font-size:large;
+    font-style: italic;
+    color:aquamarine;
+    text-align:center;
+}
+.div-3
+{
+    width:200px;
+    height:200px;
+    background-color: rgb(47, 0, 255);
+    border: 3px solid black;
+    font-size:large;
+    font-style: bold;
+    color: greenyellow;
+    text-align:center;
+    cursor:grab;
+}
+img{
+    width: 1650px;
+    height: 400px;
+}

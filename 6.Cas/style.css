@@ -1,0 +1,78 @@
+.header{
+    height:60px;
+    padding:15px;
+    display:flex;
+    background-color:grey;
+}
+.glavno{
+    display:flex;
+    margin-bottom:50;
+}
+.div-1 {
+margin-left:20px;
+font-size:20px;
+font-family:Arial, Helvetica, sans-serif;
+font-weight:300px;
+transition:0.5s;
+display:flex;
+text-decoration:none
+}
+.div-1:hover{
+    font-size:25px;
+    transition:1s;
+    border-style:solid;
+    border-width:10px;
+    border-color:green;
+    padding:5.5%;
+}
+.div-2 {
+    margin-left:20px;
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:300px;
+    transition:0.5s;
+    display:flex;
+}
+.div-2:hover{
+    font-size:25px;
+    transition:1s;
+    border-style:solid;
+    border-width:30px;
+    border-color:red;
+    padding:7.5%;
+}
+.div-3{
+    margin-left:20px;
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:300px;
+    transition:0.5s;
+}
+.div-3:hover{
+    font-size:25px;
+    transition:1s;
+    border-style:solid;
+    border-width:30px;
+    border-color:brown;
+    padding:7.5%;
+}
+.div-4 {
+    margin-left:20px;
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:300px;
+    transition:0.5s;
+}
+.div-4:hover{
+    font-size:25px;
+    transition:1s;
+    border-style:solid;
+    border-width:30px;
+    border-color:purple;
+    padding:7.5%;
+}
+img {
+    height:100px;
+    width: 100px;
+    float:left;
+}

@@ -1,0 +1,27 @@
+th {
+    
+    color:purple;
+    font-style:italic;
+        text-shadow: 2px 2px rgb(1, 247, 13);
+}
+td {
+    color:brown;
+}
+table, th,td {
+    border: 2px 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 700px;
+    border-style: groove;
+}
+td {
+    background-color: #96D4D4;
+    font-weight:bold;
+    text-decoration:underline;
+}
+th { 
+    background-color: #785df1;
+}
+h1 { 
+text-decoration:dotted;
+}

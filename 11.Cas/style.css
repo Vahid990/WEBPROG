@@ -1,0 +1,46 @@
+input{
+    width:1550px;
+    height: 30px;
+}
+button{
+    height:40px;
+    width:1550px;
+    background-color: yellow;
+    margin: 2px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: yellow;
+    text-shadow: 10cm;
+    color:rgb(253, 0, 106);
+    height:60px;
+    margin:5px;
+    transition: 0.9s;
+    font-family:courier;
+    font-size:x-large
+}
+select{
+    width:1550px;
+    height:40px;
+}
+body{
+    color: #fdcc04
+}
+ul li
+{
+    text-align: right;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left:750px;
+    padding-bottom:20px;
+    text-decoration: none;
+    list-style:none;
+    font-size:large;
+}
+#navbar
+{
+    text-align: right;
+    width:50px;
+    height:25px;
+}

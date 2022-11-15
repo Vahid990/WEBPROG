@@ -1,0 +1,24 @@
+.wrapper div{
+    background-color: #eee;
+    padding:1em;
+    border:solid black 1px;
+}
+.wrapper div:hover{
+    cursor:pointer;
+    background-color: lightgoldenrodyellow;
+}
+.wrapper div:nth-child(odd){
+    background-color:#ddd
+}
+.wrapper div:nth-child(odd):hover{
+    cursor:pointer;
+    background-color: lightgoldenrodyellow;
+}
+.wrapper{
+    display:grid;
+    grid-template-columns: 40% 30% 30%;
+    /* grid-column-gap 10px;
+    grid-row-gap:10px;*/
+    grid-gap:10px;
+    background-color: lightgrey;
+}

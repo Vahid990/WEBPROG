@@ -1,0 +1,31 @@
+.Left{
+    flex-wrap: wrap;
+    width:50%;
+    background-color: lightgray;
+    margin-top: 1cm;
+    margin-left: 2cm;
+
+}
+.Left:hover{
+    background-color: pink;
+}
+.Right{
+    float:right;
+    flex-wrap: wrap;
+    width:50%;
+    background-color: grey;
+    text-align: left;
+}
+*{
+    display: flex;
+}
+.Time{
+    background-color: black;
+    color:white;
+    font-size: 2cm;
+    width:8cm;
+    height: 5cm;
+    align-items: center;
+    margin-top: 2cm;
+    float:center;
+}

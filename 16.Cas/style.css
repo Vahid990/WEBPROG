@@ -1,0 +1,32 @@
+.cards{
+    display:flex;
+}
+.info{
+    float:center;
+    border:solid grey 2px;
+    width:10cm;
+    height:9cm;
+    margin-left:10px;
+    align-items: center;
+    background-color: lightgrey;   
+}
+.js{
+    border:solid grey 2px;
+    width:10cm;
+    height:9cm;
+    margin-left: 10px;
+}
+img{
+    float:center;
+    align-items:center;
+    text-align: center;
+    position:relative;
+    left:50px
+}
+ul {
+    list-style: none;
+}
+
+ul li:before {
+    content: '✓';
+}

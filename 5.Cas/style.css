@@ -1,0 +1,17 @@
+.div-1{
+    background-color: red;
+    display: inline-block;
+}
+.div-2{
+    background-color: blue;
+}
+.span-1{
+    background-color: aqua;
+    display: inline-block;
+}
+.span-2{
+    background-color: green;
+}
+img {
+    width: 300px;
+}
